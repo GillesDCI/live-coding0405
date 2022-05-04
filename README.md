@@ -1,1 +1,1 @@
-# Pagination live coding 27-04
+# Adding register and login (bcrypt)
